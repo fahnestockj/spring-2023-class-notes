@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a91d144f9be9bf00",
+    "type": "split",
+    "children": [
+      {
+        "id": "91ac75047a22ec0b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Networks Final Review.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "056bdc9c9475d5e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b37ed7c5df577430",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a859a570ad0a49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "648182b81be89ff4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d151c24f672dbd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8cbbfa3ce48ba1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7a3276030031fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Networks Final Review.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91ac75047a22ec0b",
+  "lastOpenFiles": [
+    "Pasted image 20220608193401.png",
+    "Networks Final Review.md",
+    "Networks/Networks Exam 2 Review.md",
+    "Networks/networksHWquestions.md",
+    "ENG-532.md",
+    "fahnestockAssignment5.md",
+    "Lec13.md",
+    "Speaker Notes.md",
+    "apc/apc Assignment1.md",
+    "apc/apc Assignment2.md"
+  ]
+}
